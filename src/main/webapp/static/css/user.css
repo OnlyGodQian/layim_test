@@ -1,0 +1,21 @@
+
+.front {
+	height:470px;
+	background:url(../images/fengche.png) no-repeat center center;
+	}
+#loginblock{
+	background-color:#CFE7FE;
+	width:300px; 
+	margin:150px,0,0,0;
+	float:right;
+	}
+#loginbolck h5{
+	height: 36px;
+	color: #666;
+	text-align: center;
+	line-height: 36px;
+	background-color: #e7e7e7;
+	}
+.control-group{
+	margin-left:-100px;
+	margin-top:30px;}
